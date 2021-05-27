@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # Python API - What's the Weather Like?
 =======
-# Python - What's the Weather Like?
->>>>>>> 9eb847ade65739ff42a7a116feb4bcf3db17a07d
 
 ## Background
 
