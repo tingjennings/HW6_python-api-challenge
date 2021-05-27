@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Python API - What's the Weather Like?
+=======
+# Python - What's the Weather Like?
+>>>>>>> 9eb847ade65739ff42a7a116feb4bcf3db17a07d
 
 ## Background
 
@@ -10,10 +14,13 @@ But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
 
+<<<<<<< HEAD
 ### Before You Begin
 
 1. Create a new repository for this project called `python-api-challenge`. 
 
+=======
+>>>>>>> 9eb847ade65739ff42a7a116feb4bcf3db17a07d
 2. Clone the new repository to your computer.
 
 3. Inside your local git repository, create a directory for both of the Python Challenges. Use a folder name that corresponds to the challenges, such as: **WeatherPy**.
